@@ -19,3 +19,8 @@
 *.exe
 *.out
 *.app
+
+# Android Temp Files
+proj.android/bin
+proj.android/obj
+
